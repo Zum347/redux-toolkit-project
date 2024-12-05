@@ -1,7 +1,5 @@
-# React + Vite
 # Toolkit
 # Counter Project
-# Kurulum
 
 - Kütüphaneler
 
